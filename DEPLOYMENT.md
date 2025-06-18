@@ -78,15 +78,7 @@ This guide will help you deploy your Telegram sentiment analysis bot on various 
 
 For any platform, set these environment variables:
 
-```
-BOT_TOKEN=8028342158:AAHqYTygCaSFuFQrBL6Jl3qMY1pADZQ7tSo
-MONITOR_CHAT_ID=-673515655
-MODEL_NAME=cardiffnlp/twitter-xlm-roberta-base-sentiment-multilingual
-SENTIMENT_THRESHOLD_LOW=3.0
-SENTIMENT_THRESHOLD_HIGH=7.5
-LOG_DIRECTORY=logs
-DAILY_REPORT_TIME=23:59
-```
+
 
 ## 📊 Resource Requirements
 
